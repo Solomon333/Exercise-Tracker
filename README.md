@@ -1,6 +1,6 @@
  Exercise-Tracker  =
 
-- Create React App.
+- Create React App
 
 - Useful tool to track your exercise.
 
