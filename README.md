@@ -1,8 +1,6 @@
  Exercise-Tracker
 
-- Create React App /
-
-- Useful tool to track your exercise /
-
-- Bootstrap /
+- Create React App 
+- Useful tool to track your exercise 
+- Bootstrap 
 
